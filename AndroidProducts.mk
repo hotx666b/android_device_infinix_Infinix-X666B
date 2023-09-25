@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_Infinix-X666B.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Infinix-X666B-user \
-    omni_Infinix-X666B-userdebug \
-    omni_Infinix-X666B-eng
+    omni_X666B-user \
+    omni_X666B-userdebug \
+    omni_X666B-eng
